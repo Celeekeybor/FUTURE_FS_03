@@ -1,0 +1,23 @@
+{  
+    "name": "To-Do List Celee",  
+    "short_name": " My TODO List",  
+    "theme_color": "#800080",  
+    "background_color": "#800080",  
+    "display": "fullscreen",  
+    "scope": "/",  
+    "start_url": "/",  
+    "icons": [  
+        {  
+            "src": "512.png",  
+            "sizes": "512x512",  
+            "type": "image/png",  
+            "purpose": "any maskable"  
+        },  
+        {  
+            "src": "192.png",  
+            "sizes": "192x192",  
+            "type": "image/png",  
+            "purpose": "any maskable"  
+        }  
+    ]  
+}  
